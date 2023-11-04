@@ -6,7 +6,7 @@ We are iFDot, a dynamic and innovative group dedicated to pushing the boundaries
 
 # For Everyone, For Everyone, By Everyone, Open Source
 
-"At iFDot, our values are rooted in the principles of 'For Everyone, For Everyone, By Everyone, Open Source.' We are dedicated to creating technology solutions that are inclusive, accessible, and driven by collective collaboration. Our commitment to open source development is a testament to our belief in transparency, community involvement, and the idea that technology should be a shared resource for the benefit of all. Join us as we work together to shape a future where technology is truly for everyone, by everyone, and open to all."
+At iFDot, our values are rooted in the principles of 'For Everyone, For Everyone, By Everyone, Open Source.' We are dedicated to creating technology solutions that are inclusive, accessible, and driven by collective collaboration. Our commitment to open source development is a testament to our belief in transparency, community involvement, and the idea that technology should be a shared resource for the benefit of all. Join us as we work together to shape a future where technology is truly for everyone, by everyone, and open to all.
 
 # Shaping the Future We Transform
 
@@ -14,4 +14,4 @@ At iFDot, we believe in 'Shaping the Future We Transform.' Our core values revol
 
 # The AI Industry We Create
 
-"At iFDot, our values center around 'The AI Industry We Create.' We are passionate about shaping the future of the AI industry through our commitment to innovation, ethical practices, and technological excellence. Our mission is to develop AI solutions that are not only cutting-edge but also ethical and sustainable. We believe that responsible AI development can transform industries, improve lives, and contribute to a better future for all. Join us in our journey to make a lasting impact in 'The AI Industry We Create' and ensure it aligns with our vision of a more promising world."
+At iFDot, our values center around 'The AI Industry We Create.' We are passionate about shaping the future of the AI industry through our commitment to innovation, ethical practices, and technological excellence. Our mission is to develop AI solutions that are not only cutting-edge but also ethical and sustainable. We believe that responsible AI development can transform industries, improve lives, and contribute to a better future for all. Join us in our journey to make a lasting impact in 'The AI Industry We Create' and ensure it aligns with our vision of a more promising world.

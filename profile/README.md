@@ -1,4 +1,6 @@
-![ifdot_github](https://github.com/iFDot/.github/assets/133370084/d4405aa3-bc2f-4f23-899f-7a50e6e78e4e)
+![iFDot_OpenSource](https://github.com/iFDot/.github/assets/133370084/470b2ad1-4d14-4e24-9e4a-bf55ba6884fc)
+
+
 
 # We are iFDot
 
